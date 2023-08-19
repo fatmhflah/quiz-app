@@ -1,0 +1,586 @@
+{
+  "results": [
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When was the Sega Genesis released in Japan?",
+      "correct_answer": "October 29, 1988",
+      "incorrect_answers": [
+        "August 14, 1989",
+        "November 30, 1990",
+        "September 1, 1986"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "From what show is the character &quot;James Doakes&quot;? ",
+      "correct_answer": "Dexter",
+      "incorrect_answers": [
+        "Marvel&#039;s Daredevil",
+        "Boardwalk Empire",
+        "The Walking Dead"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the TV series &quot;Person of Interest&quot;, who plays the character &quot;Harold Finch&quot;?",
+      "correct_answer": "Michael Emerson",
+      "incorrect_answers": [
+        "Jim Caviezel",
+        "Taraji P. Henson",
+        "Kevin Chapman"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "This field is sometimes known as &ldquo;The Dismal Science.&rdquo;",
+      "correct_answer": "Economics",
+      "incorrect_answers": [
+        "Philosophy",
+        "Politics",
+        "Physics"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following liquids is least viscous? Assume temperature is 25&deg;C.",
+      "correct_answer": "Acetone",
+      "incorrect_answers": [
+        "Water",
+        "Mercury",
+        "Benzene"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In any programming language, what is the most common way to iterate through an array?",
+      "correct_answer": "&#039;For&#039; loops",
+      "incorrect_answers": [
+        "&#039;If&#039; Statements",
+        "&#039;Do-while&#039; loops",
+        "&#039;While&#039; loops"
+      ]
+    },
+    {
+      "category": "Mythology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "This Greek mythological figure is the god/goddess of battle strategy (among other things).",
+      "correct_answer": "Athena",
+      "incorrect_answers": [
+        "Ares",
+        "Artemis",
+        "Apollo"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who&#039;s the voice actor for Thrall in the Warcraft game series?",
+      "correct_answer": "Chris Metzen",
+      "incorrect_answers": [
+        "Ben Affleck",
+        "Jason Derulo",
+        "Jim Carrey"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The song &quot;Twin Size Mattress&quot; was written by which band?",
+      "correct_answer": "The Front Bottoms",
+      "incorrect_answers": [
+        "Twenty One Pilots",
+        "The Wonder Years",
+        "The Smith Street Band"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Blinky, Pinky, Inky and Clyde are characters from which classic video game?",
+      "correct_answer": "Pac-Man",
+      "incorrect_answers": [
+        "Gauntlet",
+        "Space Invaders",
+        "Street Fighter"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the very first video uploaded to YouTube?",
+      "correct_answer": "Me at the zoo",
+      "incorrect_answers": [
+        "tribute",
+        "carrie rides a truck",
+        "Her new puppy from great grandpa vern."
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these is NOT the name of an album released by American rapper Viper?",
+      "correct_answer": "The Life of Pablo",
+      "incorrect_answers": [
+        "Kill Urself My Man",
+        "You&#039;ll Cowards Don&#039;t Even Smoke Crack",
+        "Yo Wife Handcuffin&#039; Me"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;Fairy Tail&quot;, what is the nickname of Natsu Dragneel?",
+      "correct_answer": "The Salamander",
+      "incorrect_answers": [
+        "The Dragon Slayer",
+        "The Dragon",
+        "The Demon"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which city did Anger berate for ruining pizza in &quot;Inside Out&quot;?",
+      "correct_answer": "San Francisco",
+      "incorrect_answers": [
+        "Minnesota",
+        "Washington",
+        "California"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the name of Ross&#039; pet monkey on &quot;Friends&quot;?",
+      "correct_answer": "Marcel",
+      "incorrect_answers": [
+        "Jojo",
+        "George",
+        "Champ"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Mario spin-off game did Waluigi make his debut?",
+      "correct_answer": "Mario Tennis",
+      "incorrect_answers": [
+        "Mario Party 3",
+        "Mario Kart: Double Dash!!",
+        "Mario Golf: Toadstool Tour"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What device allows Tracer to manipulate her own time in the game &quot;Overwatch&quot;?",
+      "correct_answer": "Chronal Accelerator",
+      "incorrect_answers": [
+        "B.L.I.N.K",
+        "Spacial Displacement Manipulator",
+        "TMD (Time Manipulation Device)"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Meryl Silverburgh, a video game character from the Metal Gear series, was originally a character in which game?",
+      "correct_answer": "Policenauts",
+      "incorrect_answers": [
+        "Gradius",
+        "Contra",
+        "Castlevania: Symphony of the Night"
+      ]
+    },
+    {
+      "category": "Science: Gadgets",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which company designed the &quot;Betamax&quot; video cassette format?",
+      "correct_answer": "Sony",
+      "incorrect_answers": [
+        "Panasonic",
+        "LG",
+        "Fujitsu"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the main antagonist of Max Payne 3 (2012)?",
+      "correct_answer": "Victor Branco",
+      "incorrect_answers": [
+        "&Aacute;lvaro Neves",
+        "Armando Becker",
+        "Milo Rego"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the main character in the show &quot;Burn Notice&quot;?",
+      "correct_answer": "Michael Westen",
+      "incorrect_answers": [
+        "Sam Axe",
+        "Fiona Glenanne",
+        "Madeline Westen"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the relationship between the band members of American rock band King of Leon?",
+      "correct_answer": "Brothers &amp; cousins",
+      "incorrect_answers": [
+        "Childhood friends",
+        "Former classmates",
+        "Fraternity house members"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "Danganronpa 2: Goodbye Despair featured all of the surviving students from the first game.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Sonic the Hedgehog game was originally supposed to be packaged with Sonic 3, but was cut in half due to time constraints?",
+      "correct_answer": "Sonic &amp; Knuckles",
+      "incorrect_answers": [
+        "Sonic 2",
+        "Sonic CD",
+        "Sonic 3D Blast"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the video game Overwatch, which playable character is infamous for saying &quot;It&#039;s high noon.&quot;?",
+      "correct_answer": "McCree",
+      "incorrect_answers": [
+        "Hanzo",
+        "Pharah",
+        "Soldier: 76"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the animated series RWBY, what is the name of the weapon used by Weiss Schnee?",
+      "correct_answer": "Myrtenaster",
+      "incorrect_answers": [
+        "Gambol Shroud",
+        "Crescent Rose",
+        "Ember Celica"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Early RAM was directly seated onto the motherboard and could not be easily removed.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the game Call of Duty, what is the last level where you play as an American soldier?",
+      "correct_answer": "Festung Recogne",
+      "incorrect_answers": [
+        "Ste. Mere-Eglise (Day)",
+        "Chateau",
+        "Brecourt"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The names of Roxas&#039;s Keyblades in Kingdom Hearts are &quot;Oathkeeper&quot; and &quot;Oblivion&quot;.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does LTS stand for in the software market?",
+      "correct_answer": "Long Term Support",
+      "incorrect_answers": [
+        "Long Taco Service",
+        "Ludicrous Transfer Speed",
+        "Ludicrous Turbo Speed"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does &quot;LCD&quot; stand for?",
+      "correct_answer": "Liquid Crystal Display",
+      "incorrect_answers": [
+        "Language Control Design",
+        "Last Common Difference",
+        "Long Continuous Design"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which one of these games wasn&#039;t released in 2016?",
+      "correct_answer": "Metal Gear Solid V",
+      "incorrect_answers": [
+        "Tom Clancy&#039;s The Division",
+        "Killing Floor 2",
+        "Hitman"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which Animal Crossing game was for the Nintendo Wii?",
+      "correct_answer": "Animal Crossing: City Folk",
+      "incorrect_answers": [
+        "Animal Crossing: New Leaf",
+        "Animal Crossing: Wild World",
+        "Animal Crossing: Population Growing!"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "In Rocket League, you can play Basketball.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the total length of the Titanic?",
+      "correct_answer": "882 ft | 268.8 m",
+      "incorrect_answers": [
+        "759 ft | 231.3 m",
+        "1042 ft | 317.6 m",
+        "825 ft | 251.5 m"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which game is NOT part of the Science Adventure series by 5pb. and Nitroplus?",
+      "correct_answer": "Occultic; Nine",
+      "incorrect_answers": [
+        "Steins; Gate",
+        "Robotics; Notes",
+        "Chaos; Child"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Waylon Smithers from &quot;The Simpsons&quot; was originally black when he first appeared in the series.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "In the &quot;To Love-Ru&quot; series, Peke is considered a female robot.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "In &quot;League of Legends&quot;, there exists four different types of Dragon.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Telltale Games&#039; &quot;The Walking Dead: Season One&quot; what is the name of Clementine&#039;s father?",
+      "correct_answer": "Ed",
+      "incorrect_answers": [
+        "Charles",
+        "Lee",
+        "Walter"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?",
+      "correct_answer": "Nikita Khrushchev",
+      "incorrect_answers": [
+        "Leonid Brezhnev",
+        "Mikhail Gorbachev",
+        "Boris Yeltsin"
+      ]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the full first name of the babysitter in Calvin and Hobbes?",
+      "correct_answer": "Rosalyn",
+      "incorrect_answers": [
+        "Rose",
+        "Ruby",
+        "Rachel"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What year did the Vietnam War end?",
+      "correct_answer": "1975",
+      "incorrect_answers": [
+        "1978",
+        "1967",
+        "1969"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "A Boolean value of &quot;0&quot; represents which of these words?",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
+      "correct_answer": "Ad hominem",
+      "incorrect_answers": [
+        "Post hoc ergo propter hoc",
+        "Tu quoque",
+        "Argumentum ad populum"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these founding fathers of the United States of America later became president?",
+      "correct_answer": "James Monroe",
+      "incorrect_answers": [
+        "Alexander Hamilton",
+        "Samuel Adams",
+        "Roger Sherman"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "&quot;Grande Valse&quot; is a phrase from the song &quot;Gran Vals&quot;. What is that song segment known as?",
+      "correct_answer": "Nokia Tune",
+      "incorrect_answers": [
+        "Hello Moto [Motorola Ringtone]",
+        "Droid Ringtone",
+        "Microsoft Ringtone"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of a popular franchise that includes placing blocks down and surviving in an open world? ",
+      "correct_answer": "Minecraft",
+      "incorrect_answers": [
+        "Unturned",
+        "Roblox",
+        "Grand Theft Auto V"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which Roman Emperor led the Roman Empire to reach its maximum territorial extent?",
+      "correct_answer": "Trajan",
+      "incorrect_answers": [
+        "Julius Caesar",
+        "Claudius",
+        "Constantine the Great"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In the Monster Hunter Series, it is possible to capture Elder Dragons.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    }
+  ]
+}
